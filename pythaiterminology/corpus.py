@@ -3,13 +3,13 @@ from typing import FrozenSet
 from pythaiterminology.tools import get_corpus
 
 _math_terminology = set()
-_math_terminology_path = 'pythaiterminology/math_terminology.txt'
+_math_terminology_path = 'pythaiterminology/data/math_terminology.txt'
 
 _physics_terminology = set()
-_physics_terminology_path = 'pythaiterminology/physics_terminology.txt'
+_physics_terminology_path = 'pythaiterminology/data/physics_terminology.txt'
 
 _chemical_terminology = set()
-_chemical_terminology_path = 'pythaiterminology/chemical_terminology.txt'
+_chemical_terminology_path = 'pythaiterminology/data/chemical_terminology.txt'
 
 _all_terminology = set()
 
