@@ -11,7 +11,7 @@
 Use the package manager pip to install PyThaiTerminology.
 
 ```bash
-pip install PyThaiTerminology
+pip install pythaiterminology
 ```
 
 ## Usage
