@@ -17,7 +17,7 @@ pip install PyThaiTerminology
 ## Usage
 
 ```python
-import PyThaiTerminology.corpus as ptt
+import pythaiterminology.corpus as ptt
 
 # returns 'frozenset({'พิทาโกรัส', 'คอร์ด', 'คอมพลีเมนต์', 'แคลคูลัส', ...})'
 ptt.math_terminology()
